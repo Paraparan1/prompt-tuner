@@ -1,6 +1,6 @@
 # Prompt Tuner
 
-**Prompt Tuner** is a React + Tailwind web app designed to optimise prompts for AI models like OpenAI's GPT. It helps users rewrite their prompts for clarity, precision, and usefulness, provides a quality score, allows running the optimized prompt to get AI responses, and lets users **export their prompt history**. Ideal for anyone working with AI and prompt engineering.  
+**Prompt Tuner** is a React + Tailwind web app designed to optimise prompts for AI models like OpenAI's GPT. It helps users rewrite their prompts for clarity, precision, and usefulness, provides a quality score, allows running the optimised prompt to get AI responses, and lets users **export their prompt history**. Ideal for anyone working with AI and prompt engineering.  
 
 ---
 
@@ -13,8 +13,15 @@
 - **Export prompt history** to a file for backup or analysis  
 - Settings modal for managing API keys  
 - Responsive, modern UI with TailwindCSS  
-- [Watch the demo video](./demo/prompt-tuner-demo.mp4)
 
+---
+
+## Demo
+
+- **Test 1:** A vague prompt with incorrect grammar  
+- **Test 2:** A technical prompt  
+- **Prompt History Export:** See the `demo` folder  
+![Demo](./demo/prompt-tuner.gif)  
 
 ---
 
