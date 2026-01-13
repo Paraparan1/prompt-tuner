@@ -103,7 +103,7 @@ export default function App() {
         {
           role: "system",
           content:
-            "Score this prompt from 1-10 for clarity, precision, and usefulness.",
+            "Please score the following prompt from 1–10 for clarity, precision, and usefulness. Be very critical and provide specific feedback. Also, comment on whether the prompt is a proper sentence.",
         },
         { role: "user", content: improved },
       ],
