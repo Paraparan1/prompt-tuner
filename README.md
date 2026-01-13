@@ -11,15 +11,16 @@
 - Run optimised prompts with OpenAI API  
 - Keeps a **history of prompts and responses**  
 - **Export prompt history** to a file for backup or analysis  
-- Settings modal for managing API keys  
+- Settings modal for managing API keys
+- API key error handling (alerts users if the key is missing or invalid)
 - Responsive, modern UI with TailwindCSS  
 
 ---
 
 ## Demo
 
-- **Test 1:** A vague prompt with incorrect grammar  
-- **Test 2:** A technical prompt  
+- **Test 1:** A vague prompt with incorrect grammar
+- **Test 2:** A technical prompt
 - **Prompt History Export:** See the `demo` folder  
 ![Demo](./demo/prompt-tuner.gif)  
 
